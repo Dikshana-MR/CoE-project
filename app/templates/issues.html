@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Issues View - Municipality Complaint Tracker</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --border-color: #334155;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-blue: #38bdf8;
+            --accent-green: #4ade80;
+            --accent-orange: #fb923c;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', system-ui, sans-serif; }
+        body { background-color: var(--bg-color); color: var(--text-primary); padding: 2rem; }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        h1 { font-size: 1.75rem; background: linear-gradient(135deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        nav a { color: var(--text-secondary); text-decoration: none; margin-left: 1.5rem; font-weight: 500; }
+        nav a:hover, nav a.active { color: var(--accent-blue); }
+
+        .issue-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 1.25rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .issue-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+
+        .issue-id { font-size: 1.1rem; font-weight: 700; color: var(--accent-blue); }
+        .badge-status {
+            padding: 0.25rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .status-resolved { background: rgba(74, 222, 128, 0.15); color: var(--accent-green); border: 1px solid rgba(74, 222, 128, 0.3); }
+        .status-progress { background: rgba(251, 146, 60, 0.15); color: var(--accent-orange); border: 1px solid rgba(251, 146, 60, 0.3); }
+        .status-open { background: rgba(56, 189, 248, 0.15); color: var(--accent-blue); border: 1px solid rgba(56, 189, 248, 0.3); }
+
+        .issue-meta {
+            display: flex;
+            gap: 1.5rem;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .complaints-list {
+            margin-top: 1rem;
+            background: rgba(15, 23, 42, 0.5);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1rem;
+        }
+
+        .complaint-item {
+            padding: 0.6rem 0;
+            border-bottom: 1px dashed var(--border-color);
+            font-size: 0.875rem;
+        }
+
+        .complaint-item:last-child { border-bottom: none; }
+        .cmp-id { font-weight: 600; color: var(--accent-blue); }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Underlying Issues</h1>
+            <p style="color: var(--text-secondary); font-size: 0.9rem;">Consolidated Issue Tracker</p>
+        </div>
+        <nav>
+            <a href="/">Dashboard</a>
+            <a href="/issues" class="active">Issues View</a>
+            <a href="/complaints">Complaints View</a>
+        </nav>
+    </header>
+
+    <main>
+        <p style="margin-bottom: 1.5rem; color: var(--text-secondary);">Showing <strong>{{ issues|length }}</strong> underlying issues consolidated from duplicate complaints.</p>
+
+        {% for issue in issues %}
+        <div class="issue-card" id="issue-{{ issue.issue_id }}">
+            <div class="issue-header">
+                <span class="issue-id">{{ issue.issue_id }}</span>
+                <span class="badge-status {% if issue.status|lower == 'resolved' %}status-resolved{% elif issue.status|lower == 'in progress' %}status-progress{% else %}status-open{% endif %}">
+                    {{ issue.status }}
+                </span>
+            </div>
+
+            <div class="issue-meta">
+                <span><strong>Category:</strong> {{ issue.category }}</span>
+                <span><strong>Location:</strong> ({{ issue.latitude }}, {{ issue.longitude }})</span>
+                <span><strong>Complaints Linked:</strong> <strong style="color: var(--accent-blue);">{{ issue.linked_complaints|length }}</strong></span>
+            </div>
+
+            <div class="complaints-list">
+                <h4 style="font-size: 0.85rem; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.5rem;">Linked Original Complaints</h4>
+                {% for cmp in issue.linked_complaints %}
+                <div class="complaint-item">
+                    <span class="cmp-id">{{ cmp.complaint_id }}</span> — {{ cmp.description }} 
+                    <span style="color: var(--text-secondary); font-size: 0.75rem;">(Created: {{ cmp.created_date }})</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </main>
+</body>
+</html>

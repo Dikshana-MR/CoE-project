@@ -1,0 +1,751 @@
+Issue_ID,Category,Latitude,Longitude,Issue_Description,Complaint_Count,Status,Assigned_To
+I0001,Road,10.125628,76.54044,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0002,Road,10.206229,76.469702,Deep pothole reported on street,3,In Progress,Road Maintenance Team
+I0003,Road,10.081454,76.361537,Large pothole near bus stop,2,Resolved,Road Maintenance Team
+I0004,Road,10.11661,76.378875,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0005,Road,10.05372,76.543422,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0006,Road,10.237567,76.35009,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0007,Road,10.086854,76.411648,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0008,Road,10.051805,76.354576,Crack and pothole on main road,4,In Progress,Road Maintenance Team
+I0009,Road,10.17208,76.377926,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0010,Road,10.24463,76.396858,Broken road near market,3,Open,Road Maintenance Team
+I0011,Road,10.207063,76.390011,Broken road near market,3,In Progress,Road Maintenance Team
+I0012,Road,10.246483,76.442975,Road surface broken near junction,3,Open,Road Maintenance Team
+I0013,Road,10.171263,76.383749,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0014,Road,10.052589,76.538405,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0015,Road,10.211701,76.41079,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0016,Road,10.095991,76.398356,Crack and pothole on main road,3,Open,Road Maintenance Team
+I0017,Road,10.07404,76.449131,Broken road near market,2,In Progress,Road Maintenance Team
+I0018,Road,10.084948,76.428145,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0019,Road,10.182488,76.412423,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0020,Road,10.091766,76.463867,Road surface broken near junction,4,In Progress,Road Maintenance Team
+I0021,Road,10.243687,76.505139,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0022,Road,10.12908,76.535373,Damaged road with deep pothole,2,In Progress,Road Maintenance Team
+I0023,Road,10.234044,76.36734,Broken road near market,3,In Progress,Road Maintenance Team
+I0024,Road,10.154255,76.54245,Road damaged close to school,3,Open,Road Maintenance Team
+I0025,Road,10.127906,76.403997,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0026,Road,10.16749,76.542987,Road damaged close to school,3,Resolved,Road Maintenance Team
+I0027,Road,10.158676,76.378276,Damaged road with deep pothole,4,In Progress,Road Maintenance Team
+I0028,Road,10.082296,76.35354,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0029,Road,10.204409,76.389669,Deep pothole reported on street,3,In Progress,Road Maintenance Team
+I0030,Road,10.05273,76.38986,Broken road near market,2,In Progress,Road Maintenance Team
+I0031,Road,10.195976,76.50488,Road damaged close to school,2,Open,Road Maintenance Team
+I0032,Road,10.235262,76.479934,Road damaged close to school,3,Open,Road Maintenance Team
+I0033,Road,10.222673,76.474194,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0034,Road,10.068968,76.424514,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0035,Road,10.11532,76.495808,Deep pothole reported on street,3,In Progress,Road Maintenance Team
+I0036,Road,10.104697,76.462389,Road surface broken near junction,2,Open,Road Maintenance Team
+I0037,Road,10.073592,76.492454,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0038,Road,10.194652,76.397084,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0039,Road,10.148636,76.454358,Broken road near market,2,In Progress,Road Maintenance Team
+I0040,Road,10.071759,76.438089,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0041,Road,10.05679,76.477534,Broken road near market,2,Open,Road Maintenance Team
+I0042,Road,10.162716,76.489372,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0043,Road,10.09991,76.432483,Road surface broken near junction,2,Resolved,Road Maintenance Team
+I0044,Road,10.090802,76.5387,Broken road near market,2,In Progress,Road Maintenance Team
+I0045,Road,10.108058,76.38256,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0046,Road,10.174712,76.409014,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0047,Road,10.224601,76.510704,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0048,Road,10.133036,76.526222,Deep pothole reported on street,2,Open,Road Maintenance Team
+I0049,Road,10.211372,76.52847,Broken road near market,2,In Progress,Road Maintenance Team
+I0050,Road,10.231192,76.404016,Pothole causing traffic problem,2,In Progress,Road Maintenance Team
+I0051,Road,10.135654,76.513624,Large pothole near bus stop,3,In Progress,Road Maintenance Team
+I0052,Road,10.110934,76.382597,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0053,Road,10.133633,76.394127,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0054,Road,10.103762,76.398331,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0055,Road,10.115038,76.454001,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0056,Road,10.1307,76.363266,Pothole causing traffic problem,2,In Progress,Road Maintenance Team
+I0057,Road,10.242612,76.400416,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0058,Road,10.19258,76.37966,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0059,Road,10.057362,76.471658,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0060,Road,10.132416,76.356586,Deep pothole reported on street,3,In Progress,Road Maintenance Team
+I0061,Road,10.231925,76.397725,Crack and pothole on main road,4,In Progress,Road Maintenance Team
+I0062,Road,10.156222,76.439584,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0063,Road,10.098936,76.484139,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0064,Road,10.12371,76.398578,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0065,Road,10.123266,76.476487,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0066,Road,10.129951,76.51343,Road surface broken near junction,2,Open,Road Maintenance Team
+I0067,Road,10.21766,76.4138,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0068,Road,10.189102,76.521523,Crack and pothole on main road,3,Resolved,Road Maintenance Team
+I0069,Road,10.185291,76.353457,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0070,Road,10.211992,76.419523,Broken road near market,3,Open,Road Maintenance Team
+I0071,Road,10.085003,76.488068,Crack and pothole on main road,3,In Progress,Road Maintenance Team
+I0072,Road,10.153638,76.517388,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0073,Road,10.118642,76.37298,Broken road near market,2,In Progress,Road Maintenance Team
+I0074,Road,10.158377,76.489222,Broken road near market,2,Resolved,Road Maintenance Team
+I0075,Road,10.18191,76.513752,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0076,Road,10.153694,76.402266,Road damaged close to school,2,Resolved,Road Maintenance Team
+I0077,Road,10.069181,76.529393,Large pothole near bus stop,4,In Progress,Road Maintenance Team
+I0078,Road,10.226445,76.387916,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0079,Road,10.119832,76.495037,Road surface broken near junction,2,Open,Road Maintenance Team
+I0080,Road,10.22092,76.430852,Large pothole near bus stop,3,In Progress,Road Maintenance Team
+I0081,Road,10.17827,76.36666,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0082,Road,10.207169,76.483875,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0083,Road,10.052318,76.370508,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0084,Road,10.244678,76.406894,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0085,Road,10.159382,76.488486,Deep pothole reported on street,2,Open,Road Maintenance Team
+I0086,Road,10.248863,76.385146,Crack and pothole on main road,3,In Progress,Road Maintenance Team
+I0087,Road,10.097388,76.414804,Large pothole near bus stop,4,In Progress,Road Maintenance Team
+I0088,Road,10.12355,76.498831,Large pothole near bus stop,2,In Progress,Road Maintenance Team
+I0089,Road,10.18166,76.464036,Large pothole near bus stop,4,Open,Road Maintenance Team
+I0090,Road,10.151531,76.476889,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0091,Road,10.098609,76.544214,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0092,Road,10.147153,76.531525,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0093,Road,10.208752,76.450506,Road damaged close to school,4,In Progress,Road Maintenance Team
+I0094,Road,10.183985,76.522865,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0095,Road,10.194639,76.406092,Road surface broken near junction,6,In Progress,Road Maintenance Team
+I0096,Road,10.20383,76.358626,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0097,Road,10.238072,76.54109,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0098,Road,10.226655,76.499655,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0099,Road,10.235722,76.435688,Road damaged close to school,2,Open,Road Maintenance Team
+I0100,Road,10.164402,76.546108,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0101,Road,10.108862,76.427022,Broken road near market,2,Resolved,Road Maintenance Team
+I0102,Road,10.103909,76.44717,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0103,Road,10.161306,76.53721,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0104,Road,10.235886,76.364636,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0105,Road,10.172811,76.547894,Damaged road with deep pothole,4,Open,Road Maintenance Team
+I0106,Road,10.100771,76.409084,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0107,Road,10.197627,76.489466,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0108,Road,10.191787,76.460597,Damaged road with deep pothole,2,Resolved,Road Maintenance Team
+I0109,Road,10.211862,76.511906,Deep pothole reported on street,2,Open,Road Maintenance Team
+I0110,Road,10.172546,76.366798,Broken road near market,2,Resolved,Road Maintenance Team
+I0111,Road,10.150218,76.50965,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0112,Road,10.064049,76.429232,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0113,Road,10.227872,76.417749,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0114,Road,10.165692,76.437286,Broken road near market,2,Resolved,Road Maintenance Team
+I0115,Road,10.05705,76.443068,Large pothole near bus stop,4,In Progress,Road Maintenance Team
+I0116,Road,10.246258,76.517854,Damaged road with deep pothole,4,In Progress,Road Maintenance Team
+I0117,Road,10.05607,76.357436,Damaged road with deep pothole,3,Resolved,Road Maintenance Team
+I0118,Road,10.110803,76.457304,Large pothole near bus stop,2,In Progress,Road Maintenance Team
+I0119,Road,10.154271,76.504391,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0120,Road,10.243595,76.44132,Broken road near market,3,In Progress,Road Maintenance Team
+I0121,Road,10.060034,76.456251,Broken road near market,3,Open,Road Maintenance Team
+I0122,Road,10.190199,76.377756,Road damaged close to school,2,Resolved,Road Maintenance Team
+I0123,Road,10.24479,76.453383,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0124,Road,10.058372,76.430027,Damaged road with deep pothole,2,In Progress,Road Maintenance Team
+I0125,Road,10.137879,76.366088,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0126,Road,10.08731,76.366874,Broken road near market,2,In Progress,Road Maintenance Team
+I0127,Road,10.189382,76.43177,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0128,Road,10.233284,76.438476,Deep pothole reported on street,2,Resolved,Road Maintenance Team
+I0129,Road,10.159302,76.493159,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0130,Road,10.236991,76.47744,Road damaged close to school,2,Resolved,Road Maintenance Team
+I0131,Road,10.19779,76.460953,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0132,Road,10.195892,76.360152,Deep pothole reported on street,4,Open,Road Maintenance Team
+I0133,Road,10.12125,76.501591,Damaged road with deep pothole,4,Open,Road Maintenance Team
+I0134,Road,10.118335,76.368342,Broken road near market,3,In Progress,Road Maintenance Team
+I0135,Road,10.058015,76.520766,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0136,Road,10.085189,76.353731,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0137,Road,10.148386,76.444655,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0138,Road,10.142678,76.480136,Broken road near market,2,In Progress,Road Maintenance Team
+I0139,Road,10.173102,76.477448,Road surface broken near junction,2,Resolved,Road Maintenance Team
+I0140,Road,10.101856,76.353158,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0141,Road,10.15094,76.521388,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0142,Road,10.186495,76.473201,Crack and pothole on main road,5,In Progress,Road Maintenance Team
+I0143,Road,10.178628,76.355684,Crack and pothole on main road,2,Resolved,Road Maintenance Team
+I0144,Road,10.176946,76.510003,Crack and pothole on main road,3,In Progress,Road Maintenance Team
+I0145,Road,10.127782,76.478194,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0146,Road,10.212092,76.513882,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0147,Road,10.127501,76.542476,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0148,Road,10.091095,76.405158,Crack and pothole on main road,3,In Progress,Road Maintenance Team
+I0149,Road,10.070048,76.353806,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0150,Road,10.173506,76.417488,Damaged road with deep pothole,2,In Progress,Road Maintenance Team
+I0151,Road,10.113704,76.51879,Damaged road with deep pothole,2,In Progress,Road Maintenance Team
+I0152,Road,10.118557,76.401978,Large pothole near bus stop,2,Resolved,Road Maintenance Team
+I0153,Road,10.07348,76.48918,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0154,Road,10.23729,76.358165,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0155,Road,10.210467,76.406378,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0156,Road,10.13475,76.463279,Road damaged close to school,3,Open,Road Maintenance Team
+I0157,Road,10.248239,76.43216,Damaged road with deep pothole,3,In Progress,Road Maintenance Team
+I0158,Road,10.099974,76.466488,Broken road near market,2,In Progress,Road Maintenance Team
+I0159,Road,10.236059,76.521406,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0160,Road,10.186142,76.498318,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0161,Road,10.07053,76.530766,Road damaged close to school,2,Open,Road Maintenance Team
+I0162,Road,10.149124,76.428208,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0163,Road,10.229247,76.42767,Crack and pothole on main road,3,Resolved,Road Maintenance Team
+I0164,Road,10.242019,76.519408,Crack and pothole on main road,2,Open,Road Maintenance Team
+I0165,Road,10.113622,76.540191,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0166,Road,10.146504,76.448905,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0167,Road,10.139671,76.40878,Large pothole near bus stop,2,In Progress,Road Maintenance Team
+I0168,Road,10.160519,76.392317,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0169,Road,10.20819,76.508013,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0170,Road,10.236074,76.545042,Pothole causing traffic problem,6,In Progress,Road Maintenance Team
+I0171,Road,10.159772,76.438351,Pothole causing traffic problem,4,In Progress,Road Maintenance Team
+I0172,Road,10.1593,76.491424,Broken road near market,2,In Progress,Road Maintenance Team
+I0173,Road,10.078698,76.502384,Crack and pothole on main road,3,Open,Road Maintenance Team
+I0174,Road,10.223503,76.517738,Pothole causing traffic problem,3,Open,Road Maintenance Team
+I0175,Road,10.190026,76.364388,Road surface broken near junction,5,In Progress,Road Maintenance Team
+I0176,Road,10.228644,76.379188,Road damaged close to school,2,Open,Road Maintenance Team
+I0177,Road,10.067079,76.547267,Deep pothole reported on street,3,In Progress,Road Maintenance Team
+I0178,Road,10.22248,76.525712,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0179,Road,10.239793,76.547152,Pothole causing traffic problem,2,In Progress,Road Maintenance Team
+I0180,Road,10.119999,76.491701,Road surface broken near junction,2,Open,Road Maintenance Team
+I0181,Road,10.205342,76.461581,Road surface broken near junction,3,Open,Road Maintenance Team
+I0182,Road,10.099856,76.416424,Road damaged close to school,2,Open,Road Maintenance Team
+I0183,Road,10.14905,76.352738,Road surface broken near junction,2,Resolved,Road Maintenance Team
+I0184,Road,10.164349,76.49858,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0185,Road,10.073655,76.479957,Large pothole near bus stop,2,Resolved,Road Maintenance Team
+I0186,Road,10.186527,76.397907,Large pothole near bus stop,3,In Progress,Road Maintenance Team
+I0187,Road,10.124969,76.407103,Pothole causing traffic problem,3,Resolved,Road Maintenance Team
+I0188,Road,10.15565,76.437891,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0189,Road,10.052232,76.544134,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0190,Road,10.114581,76.359258,Road damaged close to school,2,Resolved,Road Maintenance Team
+I0191,Road,10.248661,76.364843,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0192,Road,10.189148,76.364991,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0193,Road,10.17546,76.489078,Broken road near market,2,Open,Road Maintenance Team
+I0194,Road,10.24944,76.488988,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0195,Road,10.230132,76.359124,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0196,Road,10.241638,76.361731,Pothole causing traffic problem,2,In Progress,Road Maintenance Team
+I0197,Road,10.141596,76.473874,Damaged road with deep pothole,2,In Progress,Road Maintenance Team
+I0198,Road,10.083985,76.478922,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0199,Road,10.120939,76.466876,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0200,Road,10.122049,76.401988,Road surface broken near junction,3,In Progress,Road Maintenance Team
+I0201,Road,10.189594,76.457481,Crack and pothole on main road,4,In Progress,Road Maintenance Team
+I0202,Road,10.13232,76.470662,Damaged road with deep pothole,2,Open,Road Maintenance Team
+I0203,Road,10.082221,76.531933,Damaged road with deep pothole,3,Open,Road Maintenance Team
+I0204,Road,10.237878,76.433319,Crack and pothole on main road,3,Open,Road Maintenance Team
+I0205,Road,10.17271,76.433507,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0206,Road,10.22528,76.460212,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0207,Road,10.054401,76.424834,Broken road near market,2,Resolved,Road Maintenance Team
+I0208,Road,10.145775,76.547155,Road surface broken near junction,5,In Progress,Road Maintenance Team
+I0209,Road,10.168933,76.426224,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0210,Road,10.21574,76.463782,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0211,Road,10.144228,76.433388,Large pothole near bus stop,2,In Progress,Road Maintenance Team
+I0212,Road,10.05296,76.365324,Crack and pothole on main road,3,Open,Road Maintenance Team
+I0213,Road,10.212354,76.549996,Broken road near market,3,Resolved,Road Maintenance Team
+I0214,Road,10.232486,76.467324,Road damaged close to school,2,Resolved,Road Maintenance Team
+I0215,Road,10.238712,76.519237,Large pothole near bus stop,2,Open,Road Maintenance Team
+I0216,Road,10.098106,76.390832,Deep pothole reported on street,4,Open,Road Maintenance Team
+I0217,Road,10.240821,76.47111,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0218,Road,10.225562,76.501531,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0219,Road,10.121843,76.372638,Damaged road with deep pothole,2,Resolved,Road Maintenance Team
+I0220,Road,10.149456,76.445353,Road surface broken near junction,2,Open,Road Maintenance Team
+I0221,Road,10.154305,76.520326,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0222,Road,10.243997,76.368091,Broken road near market,3,In Progress,Road Maintenance Team
+I0223,Road,10.130982,76.37707,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0224,Road,10.134182,76.506979,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0225,Road,10.190915,76.392712,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0226,Road,10.1734,76.546323,Damaged road with deep pothole,3,Open,Road Maintenance Team
+I0227,Road,10.167912,76.428088,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0228,Road,10.068478,76.495264,Large pothole near bus stop,2,In Progress,Road Maintenance Team
+I0229,Road,10.152786,76.506921,Pothole causing traffic problem,3,In Progress,Road Maintenance Team
+I0230,Road,10.109635,76.454769,Large pothole near bus stop,3,Open,Road Maintenance Team
+I0231,Road,10.239605,76.379677,Deep pothole reported on street,2,Open,Road Maintenance Team
+I0232,Road,10.218426,76.503745,Crack and pothole on main road,2,In Progress,Road Maintenance Team
+I0233,Road,10.142094,76.545833,Road damaged close to school,4,Open,Road Maintenance Team
+I0234,Road,10.119335,76.391725,Deep pothole reported on street,2,In Progress,Road Maintenance Team
+I0235,Road,10.097994,76.364747,Large pothole near bus stop,4,In Progress,Road Maintenance Team
+I0236,Road,10.141926,76.466672,Damaged road with deep pothole,4,In Progress,Road Maintenance Team
+I0237,Road,10.077636,76.477965,Broken road near market,4,In Progress,Road Maintenance Team
+I0238,Road,10.189646,76.432454,Pothole causing traffic problem,2,Open,Road Maintenance Team
+I0239,Road,10.144612,76.483652,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0240,Road,10.170632,76.394481,Road damaged close to school,3,Open,Road Maintenance Team
+I0241,Road,10.083718,76.406052,Deep pothole reported on street,4,In Progress,Road Maintenance Team
+I0242,Road,10.05627,76.459756,Road damaged close to school,3,In Progress,Road Maintenance Team
+I0243,Road,10.142353,76.391276,Pothole causing traffic problem,2,Resolved,Road Maintenance Team
+I0244,Road,10.075587,76.415969,Road surface broken near junction,3,Open,Road Maintenance Team
+I0245,Road,10.057696,76.50985,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0246,Road,10.187604,76.45217,Road surface broken near junction,2,In Progress,Road Maintenance Team
+I0247,Road,10.234658,76.362274,Damaged road with deep pothole,4,In Progress,Road Maintenance Team
+I0248,Road,10.223564,76.366932,Road surface broken near junction,3,Open,Road Maintenance Team
+I0249,Road,10.086792,76.391791,Road damaged close to school,2,Open,Road Maintenance Team
+I0250,Road,10.235032,76.396934,Road damaged close to school,2,In Progress,Road Maintenance Team
+I0251,Lighting,10.123836,76.442985,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0252,Lighting,10.062138,76.379487,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0253,Lighting,10.192584,76.529045,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0254,Lighting,10.199989,76.355918,Broken street light near bus stop,3,Open,Electrical Maintenance Team
+I0255,Lighting,10.139492,76.456617,Street lamp is not working,4,In Progress,Electrical Maintenance Team
+I0256,Lighting,10.071322,76.49732,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0257,Lighting,10.054124,76.414721,Street light not working,4,In Progress,Electrical Maintenance Team
+I0258,Lighting,10.067921,76.457266,Street light not working,3,In Progress,Electrical Maintenance Team
+I0259,Lighting,10.228212,76.468875,Broken street light near bus stop,3,Open,Electrical Maintenance Team
+I0260,Lighting,10.121158,76.479451,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0261,Lighting,10.067742,76.457493,Street light not working,3,Open,Electrical Maintenance Team
+I0262,Lighting,10.161757,76.467252,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0263,Lighting,10.075708,76.406441,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0264,Lighting,10.229839,76.471796,Damaged street light pole,3,Open,Electrical Maintenance Team
+I0265,Lighting,10.120941,76.547463,Street lamp is not working,4,Open,Electrical Maintenance Team
+I0266,Lighting,10.236474,76.3515,Damaged street light pole,4,Open,Electrical Maintenance Team
+I0267,Lighting,10.080322,76.398795,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0268,Lighting,10.220175,76.36787,Street light flickering at night,3,Open,Electrical Maintenance Team
+I0269,Lighting,10.084871,76.528742,No light on main street,2,In Progress,Electrical Maintenance Team
+I0270,Lighting,10.060799,76.353272,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0271,Lighting,10.246348,76.372139,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0272,Lighting,10.165399,76.533729,No light on main street,3,Open,Electrical Maintenance Team
+I0273,Lighting,10.213805,76.401542,Faulty lamp reported near junction,4,In Progress,Electrical Maintenance Team
+I0274,Lighting,10.194604,76.513842,Street light not working,2,Open,Electrical Maintenance Team
+I0275,Lighting,10.161402,76.464458,Street lamp is not working,4,In Progress,Electrical Maintenance Team
+I0276,Lighting,10.217425,76.391426,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0277,Lighting,10.114849,76.43478,Street light not working,3,In Progress,Electrical Maintenance Team
+I0278,Lighting,10.197052,76.456194,Street light not working,4,In Progress,Electrical Maintenance Team
+I0279,Lighting,10.171954,76.407671,Street light flickering at night,4,In Progress,Electrical Maintenance Team
+I0280,Lighting,10.151397,76.536747,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0281,Lighting,10.156976,76.36036,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0282,Lighting,10.140802,76.459775,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0283,Lighting,10.248564,76.41458,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0284,Lighting,10.067518,76.378148,Street lamp is not working,4,In Progress,Electrical Maintenance Team
+I0285,Lighting,10.202,76.469127,Street light not working,3,In Progress,Electrical Maintenance Team
+I0286,Lighting,10.171157,76.508665,Broken street light near bus stop,3,Open,Electrical Maintenance Team
+I0287,Lighting,10.235712,76.515938,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0288,Lighting,10.131513,76.536678,Street light not working,2,Resolved,Electrical Maintenance Team
+I0289,Lighting,10.237767,76.386484,Street lamp is not working,4,Open,Electrical Maintenance Team
+I0290,Lighting,10.23511,76.494082,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0291,Lighting,10.218592,76.378156,Street lamp is not working,2,In Progress,Electrical Maintenance Team
+I0292,Lighting,10.200141,76.510225,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0293,Lighting,10.083009,76.51276,Street lamp is not working,3,Open,Electrical Maintenance Team
+I0294,Lighting,10.17638,76.531805,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0295,Lighting,10.22549,76.428522,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0296,Lighting,10.140153,76.49275,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0297,Lighting,10.142466,76.410052,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0298,Lighting,10.137947,76.465222,Street light not working,2,Open,Electrical Maintenance Team
+I0299,Lighting,10.230054,76.426661,Street light flickering at night,2,In Progress,Electrical Maintenance Team
+I0300,Lighting,10.063099,76.395795,No light on main street,2,Open,Electrical Maintenance Team
+I0301,Lighting,10.073354,76.537939,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0302,Lighting,10.196324,76.488642,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0303,Lighting,10.209114,76.474229,Faulty lamp reported near junction,6,In Progress,Electrical Maintenance Team
+I0304,Lighting,10.198056,76.464759,Street light flickering at night,5,In Progress,Electrical Maintenance Team
+I0305,Lighting,10.080749,76.41212,Street light flickering at night,2,In Progress,Electrical Maintenance Team
+I0306,Lighting,10.205693,76.378616,Dark street due to faulty light,4,In Progress,Electrical Maintenance Team
+I0307,Lighting,10.163765,76.502426,No light on main street,4,Open,Electrical Maintenance Team
+I0308,Lighting,10.20065,76.370923,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0309,Lighting,10.072213,76.519234,Street light not working,3,Open,Electrical Maintenance Team
+I0310,Lighting,10.170594,76.450613,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0311,Lighting,10.080198,76.395892,Street light not working,5,In Progress,Electrical Maintenance Team
+I0312,Lighting,10.204308,76.35221,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0313,Lighting,10.189034,76.458758,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0314,Lighting,10.170177,76.515555,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0315,Lighting,10.23192,76.466383,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0316,Lighting,10.134763,76.407386,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0317,Lighting,10.080522,76.467347,Dark street due to faulty light,4,Open,Electrical Maintenance Team
+I0318,Lighting,10.070193,76.401042,Faulty lamp reported near junction,2,Open,Electrical Maintenance Team
+I0319,Lighting,10.224552,76.536572,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0320,Lighting,10.234017,76.507806,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0321,Lighting,10.19124,76.379948,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0322,Lighting,10.125042,76.363718,No light on main street,2,In Progress,Electrical Maintenance Team
+I0323,Lighting,10.19706,76.536646,Street light flickering at night,2,In Progress,Electrical Maintenance Team
+I0324,Lighting,10.232436,76.374532,Damaged street light pole,3,Resolved,Electrical Maintenance Team
+I0325,Lighting,10.246586,76.518,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0326,Lighting,10.217518,76.416287,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0327,Lighting,10.153936,76.468421,Damaged street light pole,2,Resolved,Electrical Maintenance Team
+I0328,Lighting,10.125651,76.499144,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0329,Lighting,10.21072,76.351156,Street lamp is not working,2,Resolved,Electrical Maintenance Team
+I0330,Lighting,10.072589,76.432552,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0331,Lighting,10.234041,76.419274,Broken street light near bus stop,3,Open,Electrical Maintenance Team
+I0332,Lighting,10.146081,76.5337,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0333,Lighting,10.094961,76.440573,Street lamp is not working,2,In Progress,Electrical Maintenance Team
+I0334,Lighting,10.099501,76.465557,Dark street due to faulty light,3,In Progress,Electrical Maintenance Team
+I0335,Lighting,10.134,76.532814,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0336,Lighting,10.20622,76.406148,Broken street light near bus stop,3,In Progress,Electrical Maintenance Team
+I0337,Lighting,10.052837,76.482682,No light on main street,3,In Progress,Electrical Maintenance Team
+I0338,Lighting,10.245393,76.441831,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0339,Lighting,10.133132,76.367371,Faulty lamp reported near junction,4,Open,Electrical Maintenance Team
+I0340,Lighting,10.086774,76.410101,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0341,Lighting,10.063299,76.499777,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0342,Lighting,10.210031,76.419662,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0343,Lighting,10.087996,76.357606,Faulty lamp reported near junction,4,In Progress,Electrical Maintenance Team
+I0344,Lighting,10.217551,76.467374,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0345,Lighting,10.205034,76.440632,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0346,Lighting,10.156883,76.44573,Dark street due to faulty light,3,In Progress,Electrical Maintenance Team
+I0347,Lighting,10.161656,76.380805,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0348,Lighting,10.117013,76.365295,Street lamp is not working,3,Open,Electrical Maintenance Team
+I0349,Lighting,10.124635,76.404025,Dark street due to faulty light,3,Open,Electrical Maintenance Team
+I0350,Lighting,10.155577,76.510321,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0351,Lighting,10.081017,76.493312,Street lamp is not working,2,In Progress,Electrical Maintenance Team
+I0352,Lighting,10.132218,76.4605,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0353,Lighting,10.096107,76.48409,Damaged street light pole,4,In Progress,Electrical Maintenance Team
+I0354,Lighting,10.169327,76.418025,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0355,Lighting,10.08524,76.480229,No light on main street,2,Open,Electrical Maintenance Team
+I0356,Lighting,10.194094,76.510916,Faulty lamp reported near junction,2,Open,Electrical Maintenance Team
+I0357,Lighting,10.194348,76.520998,Street lamp is not working,3,Open,Electrical Maintenance Team
+I0358,Lighting,10.242698,76.538891,Street light flickering at night,4,In Progress,Electrical Maintenance Team
+I0359,Lighting,10.090971,76.408414,Faulty lamp reported near junction,2,Open,Electrical Maintenance Team
+I0360,Lighting,10.067463,76.476625,Street light not working,2,Resolved,Electrical Maintenance Team
+I0361,Lighting,10.091742,76.354869,Damaged street light pole,2,Open,Electrical Maintenance Team
+I0362,Lighting,10.22552,76.47893,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0363,Lighting,10.228569,76.513485,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0364,Lighting,10.117196,76.514757,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0365,Lighting,10.168086,76.403334,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0366,Lighting,10.118868,76.504908,Street light not working,2,In Progress,Electrical Maintenance Team
+I0367,Lighting,10.137097,76.408762,Dark street due to faulty light,2,Resolved,Electrical Maintenance Team
+I0368,Lighting,10.245078,76.505684,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0369,Lighting,10.224126,76.447921,Street light flickering at night,2,In Progress,Electrical Maintenance Team
+I0370,Lighting,10.143995,76.386608,Damaged street light pole,3,Open,Electrical Maintenance Team
+I0371,Lighting,10.054593,76.403448,Street lamp is not working,2,In Progress,Electrical Maintenance Team
+I0372,Lighting,10.189671,76.430708,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0373,Lighting,10.077906,76.517265,Dark street due to faulty light,2,Resolved,Electrical Maintenance Team
+I0374,Lighting,10.076519,76.530144,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0375,Lighting,10.104453,76.353816,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0376,Lighting,10.156236,76.512826,Street light not working,2,In Progress,Electrical Maintenance Team
+I0377,Lighting,10.104675,76.460926,No light on main street,3,In Progress,Electrical Maintenance Team
+I0378,Lighting,10.149576,76.493926,Damaged street light pole,2,Open,Electrical Maintenance Team
+I0379,Lighting,10.051941,76.377523,Street light not working,2,In Progress,Electrical Maintenance Team
+I0380,Lighting,10.102894,76.496178,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0381,Lighting,10.170365,76.482702,No light on main street,2,Open,Electrical Maintenance Team
+I0382,Lighting,10.164902,76.517818,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0383,Lighting,10.127064,76.453758,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0384,Lighting,10.120788,76.541576,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0385,Lighting,10.066438,76.470678,Dark street due to faulty light,3,Open,Electrical Maintenance Team
+I0386,Lighting,10.063741,76.517591,Street lamp is not working,3,Open,Electrical Maintenance Team
+I0387,Lighting,10.121052,76.493912,No light on main street,2,Open,Electrical Maintenance Team
+I0388,Lighting,10.172014,76.539755,No light on main street,2,Open,Electrical Maintenance Team
+I0389,Lighting,10.182591,76.537252,Faulty lamp reported near junction,5,In Progress,Electrical Maintenance Team
+I0390,Lighting,10.146709,76.404244,No light on main street,2,In Progress,Electrical Maintenance Team
+I0391,Lighting,10.102017,76.469088,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0392,Lighting,10.21944,76.540743,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0393,Lighting,10.116876,76.504748,Street light not working,2,Open,Electrical Maintenance Team
+I0394,Lighting,10.119206,76.420068,Street light not working,2,In Progress,Electrical Maintenance Team
+I0395,Lighting,10.149464,76.487494,Broken street light near bus stop,4,In Progress,Electrical Maintenance Team
+I0396,Lighting,10.141769,76.364697,Broken street light near bus stop,3,In Progress,Electrical Maintenance Team
+I0397,Lighting,10.209982,76.489286,Street light flickering at night,2,Resolved,Electrical Maintenance Team
+I0398,Lighting,10.051185,76.370631,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0399,Lighting,10.068095,76.533505,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0400,Lighting,10.207434,76.487916,Street light not working,3,In Progress,Electrical Maintenance Team
+I0401,Lighting,10.08731,76.458533,Street light flickering at night,3,Open,Electrical Maintenance Team
+I0402,Lighting,10.201196,76.477478,Street light not working,2,In Progress,Electrical Maintenance Team
+I0403,Lighting,10.182183,76.48858,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0404,Lighting,10.245767,76.530632,Dark street due to faulty light,2,Resolved,Electrical Maintenance Team
+I0405,Lighting,10.0944,76.547816,Faulty lamp reported near junction,2,Open,Electrical Maintenance Team
+I0406,Lighting,10.183557,76.358965,Faulty lamp reported near junction,2,Resolved,Electrical Maintenance Team
+I0407,Lighting,10.235075,76.385968,Street light flickering at night,3,Open,Electrical Maintenance Team
+I0408,Lighting,10.14464,76.412715,No light on main street,3,In Progress,Electrical Maintenance Team
+I0409,Lighting,10.189518,76.409429,Faulty lamp reported near junction,5,In Progress,Electrical Maintenance Team
+I0410,Lighting,10.073361,76.434757,Damaged street light pole,3,Open,Electrical Maintenance Team
+I0411,Lighting,10.14482,76.522011,No light on main street,3,In Progress,Electrical Maintenance Team
+I0412,Lighting,10.141129,76.454708,No light on main street,4,Open,Electrical Maintenance Team
+I0413,Lighting,10.057273,76.469016,Broken street light near bus stop,4,In Progress,Electrical Maintenance Team
+I0414,Lighting,10.162319,76.445812,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0415,Lighting,10.18907,76.417889,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0416,Lighting,10.130844,76.465082,Dark street due to faulty light,4,In Progress,Electrical Maintenance Team
+I0417,Lighting,10.158056,76.508297,Street light not working,2,In Progress,Electrical Maintenance Team
+I0418,Lighting,10.197921,76.453846,Damaged street light pole,2,Resolved,Electrical Maintenance Team
+I0419,Lighting,10.173212,76.396186,No light on main street,2,Resolved,Electrical Maintenance Team
+I0420,Lighting,10.141938,76.547705,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0421,Lighting,10.224759,76.45565,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0422,Lighting,10.236298,76.364014,Street light flickering at night,2,Resolved,Electrical Maintenance Team
+I0423,Lighting,10.120306,76.503548,Damaged street light pole,2,Resolved,Electrical Maintenance Team
+I0424,Lighting,10.058036,76.446078,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0425,Lighting,10.224943,76.5469,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0426,Lighting,10.067944,76.417222,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0427,Lighting,10.197709,76.39768,Street light not working,3,In Progress,Electrical Maintenance Team
+I0428,Lighting,10.143207,76.409244,Street light flickering at night,4,Open,Electrical Maintenance Team
+I0429,Lighting,10.109414,76.396694,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0430,Lighting,10.105464,76.532487,Street light not working,2,In Progress,Electrical Maintenance Team
+I0431,Lighting,10.13563,76.427036,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0432,Lighting,10.075034,76.541096,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0433,Lighting,10.207197,76.367795,Street light flickering at night,4,In Progress,Electrical Maintenance Team
+I0434,Lighting,10.246215,76.526908,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0435,Lighting,10.14332,76.472993,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0436,Lighting,10.198799,76.362972,Faulty lamp reported near junction,2,Open,Electrical Maintenance Team
+I0437,Lighting,10.238618,76.479974,Dark street due to faulty light,2,Resolved,Electrical Maintenance Team
+I0438,Lighting,10.215953,76.373327,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0439,Lighting,10.085247,76.394487,Street light not working,2,Open,Electrical Maintenance Team
+I0440,Lighting,10.241264,76.515415,Faulty lamp reported near junction,2,In Progress,Electrical Maintenance Team
+I0441,Lighting,10.06145,76.543525,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0442,Lighting,10.15358,76.469444,Street light not working,2,Resolved,Electrical Maintenance Team
+I0443,Lighting,10.084182,76.429238,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0444,Lighting,10.148534,76.549544,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0445,Lighting,10.212982,76.394797,Damaged street light pole,2,Resolved,Electrical Maintenance Team
+I0446,Lighting,10.199611,76.357064,Dark street due to faulty light,3,Open,Electrical Maintenance Team
+I0447,Lighting,10.166016,76.368097,Street light not working,3,Open,Electrical Maintenance Team
+I0448,Lighting,10.128259,76.404352,Dark street due to faulty light,3,In Progress,Electrical Maintenance Team
+I0449,Lighting,10.227422,76.540922,Damaged street light pole,4,Open,Electrical Maintenance Team
+I0450,Lighting,10.057127,76.415765,Street light not working,2,Open,Electrical Maintenance Team
+I0451,Lighting,10.159858,76.367164,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0452,Lighting,10.100372,76.351264,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0453,Lighting,10.194632,76.448569,No light on main street,2,Resolved,Electrical Maintenance Team
+I0454,Lighting,10.242424,76.372243,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0455,Lighting,10.06505,76.520163,Dark street due to faulty light,2,In Progress,Electrical Maintenance Team
+I0456,Lighting,10.226366,76.453104,Street lamp is not working,5,In Progress,Electrical Maintenance Team
+I0457,Lighting,10.214634,76.419048,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0458,Lighting,10.158922,76.522828,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0459,Lighting,10.226138,76.509564,Faulty lamp reported near junction,2,Resolved,Electrical Maintenance Team
+I0460,Lighting,10.099025,76.381475,Faulty lamp reported near junction,3,In Progress,Electrical Maintenance Team
+I0461,Lighting,10.191977,76.517093,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0462,Lighting,10.236098,76.37126,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0463,Lighting,10.20037,76.381662,Damaged street light pole,2,In Progress,Electrical Maintenance Team
+I0464,Lighting,10.242614,76.443504,No light on main street,4,Open,Electrical Maintenance Team
+I0465,Lighting,10.214758,76.375674,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0466,Lighting,10.095516,76.531733,Faulty lamp reported near junction,3,Open,Electrical Maintenance Team
+I0467,Lighting,10.21359,76.516449,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0468,Lighting,10.101628,76.388363,Faulty lamp reported near junction,4,Open,Electrical Maintenance Team
+I0469,Lighting,10.173621,76.546177,Street light not working,3,In Progress,Electrical Maintenance Team
+I0470,Lighting,10.07292,76.425773,Damaged street light pole,4,In Progress,Electrical Maintenance Team
+I0471,Lighting,10.158434,76.506036,Broken street light near bus stop,2,In Progress,Electrical Maintenance Team
+I0472,Lighting,10.106443,76.353454,Broken street light near bus stop,5,Open,Electrical Maintenance Team
+I0473,Lighting,10.242619,76.417962,Street light flickering at night,4,In Progress,Electrical Maintenance Team
+I0474,Lighting,10.086214,76.500486,Street light flickering at night,2,Open,Electrical Maintenance Team
+I0475,Lighting,10.237344,76.487738,Street light flickering at night,3,Open,Electrical Maintenance Team
+I0476,Lighting,10.239061,76.383254,Dark street due to faulty light,3,Open,Electrical Maintenance Team
+I0477,Lighting,10.063476,76.466465,Street light not working,2,In Progress,Electrical Maintenance Team
+I0478,Lighting,10.061889,76.364656,Damaged street light pole,4,Open,Electrical Maintenance Team
+I0479,Lighting,10.224331,76.544943,Damaged street light pole,3,Resolved,Electrical Maintenance Team
+I0480,Lighting,10.139133,76.479444,Dark street due to faulty light,2,Open,Electrical Maintenance Team
+I0481,Lighting,10.201845,76.354726,No light on main street,2,Open,Electrical Maintenance Team
+I0482,Lighting,10.214488,76.424164,Damaged street light pole,3,Resolved,Electrical Maintenance Team
+I0483,Lighting,10.204109,76.486823,Broken street light near bus stop,3,In Progress,Electrical Maintenance Team
+I0484,Lighting,10.081614,76.443665,No light on main street,3,In Progress,Electrical Maintenance Team
+I0485,Lighting,10.135397,76.44019,No light on main street,2,In Progress,Electrical Maintenance Team
+I0486,Lighting,10.155318,76.515306,Street light flickering at night,3,In Progress,Electrical Maintenance Team
+I0487,Lighting,10.094008,76.366612,Street light not working,2,Resolved,Electrical Maintenance Team
+I0488,Lighting,10.095857,76.376171,Street lamp is not working,2,In Progress,Electrical Maintenance Team
+I0489,Lighting,10.240133,76.380233,Street light flickering at night,4,In Progress,Electrical Maintenance Team
+I0490,Lighting,10.196504,76.532095,Damaged street light pole,3,In Progress,Electrical Maintenance Team
+I0491,Lighting,10.17735,76.429224,Street lamp is not working,3,In Progress,Electrical Maintenance Team
+I0492,Lighting,10.138424,76.412485,Broken street light near bus stop,2,Open,Electrical Maintenance Team
+I0493,Lighting,10.228994,76.39564,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0494,Lighting,10.090341,76.52346,Broken street light near bus stop,3,In Progress,Electrical Maintenance Team
+I0495,Lighting,10.12359,76.522841,Faulty lamp reported near junction,3,Open,Electrical Maintenance Team
+I0496,Lighting,10.158622,76.381766,Street light not working,2,Open,Electrical Maintenance Team
+I0497,Lighting,10.223706,76.505857,Street light not working,3,In Progress,Electrical Maintenance Team
+I0498,Lighting,10.140994,76.455972,No light on main street,2,Open,Electrical Maintenance Team
+I0499,Lighting,10.175247,76.376126,No light on main street,2,In Progress,Electrical Maintenance Team
+I0500,Lighting,10.232305,76.543594,Street lamp is not working,2,Open,Electrical Maintenance Team
+I0501,Waste,10.20942,76.446594,Waste dumping reported,2,Open,Waste Management Team
+I0502,Waste,10.169642,76.471905,Waste dumping reported,3,In Progress,Waste Management Team
+I0503,Waste,10.136233,76.389822,Uncollected waste on street,2,Open,Waste Management Team
+I0504,Waste,10.081928,76.480449,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0505,Waste,10.103991,76.509625,Overflowing garbage bin,1,In Progress,Waste Management Team
+I0506,Waste,10.246937,76.379903,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0507,Waste,10.064357,76.427845,Waste dumping reported,1,Open,Waste Management Team
+I0508,Waste,10.24493,76.494476,Overflowing garbage bin,2,In Progress,Waste Management Team
+I0509,Waste,10.189061,76.522369,Waste dumping reported,1,Open,Waste Management Team
+I0510,Waste,10.231095,76.495008,Overflowing garbage bin,1,Open,Waste Management Team
+I0511,Waste,10.070498,76.398201,Garbage not collected,1,In Progress,Waste Management Team
+I0512,Waste,10.164103,76.353542,Waste dumping reported,1,Resolved,Waste Management Team
+I0513,Waste,10.174053,76.490706,Waste pile near market,1,Open,Waste Management Team
+I0514,Waste,10.205035,76.538261,Garbage collection missed,3,In Progress,Waste Management Team
+I0515,Waste,10.153304,76.36776,Garbage not collected,2,In Progress,Waste Management Team
+I0516,Waste,10.066113,76.514906,Garbage collection missed,2,Open,Waste Management Team
+I0517,Waste,10.129396,76.376245,Overflowing garbage bin,3,Open,Waste Management Team
+I0518,Waste,10.090289,76.488875,Public bin overflowing,1,In Progress,Waste Management Team
+I0519,Waste,10.090265,76.383708,Garbage not collected,1,In Progress,Waste Management Team
+I0520,Waste,10.240439,76.374985,Garbage collection missed,3,In Progress,Waste Management Team
+I0521,Waste,10.05676,76.537109,Public bin overflowing,1,Open,Waste Management Team
+I0522,Waste,10.172335,76.410227,Overflowing garbage bin,2,In Progress,Waste Management Team
+I0523,Waste,10.223858,76.492174,Waste dumping reported,2,Open,Waste Management Team
+I0524,Waste,10.206239,76.472526,Public bin overflowing,1,Resolved,Waste Management Team
+I0525,Waste,10.065872,76.528611,Uncollected waste on street,1,Resolved,Waste Management Team
+I0526,Waste,10.169916,76.506538,Garbage accumulation near bus stop,2,In Progress,Waste Management Team
+I0527,Waste,10.17878,76.455244,Garbage accumulation near bus stop,3,In Progress,Waste Management Team
+I0528,Waste,10.137287,76.495035,Uncollected waste on street,3,In Progress,Waste Management Team
+I0529,Waste,10.099079,76.381487,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0530,Waste,10.173408,76.41607,Waste dumping reported,2,In Progress,Waste Management Team
+I0531,Waste,10.118057,76.385493,Public bin overflowing,1,Resolved,Waste Management Team
+I0532,Waste,10.136298,76.359085,Uncollected waste on street,2,In Progress,Waste Management Team
+I0533,Waste,10.160929,76.493883,Waste dumping reported,3,In Progress,Waste Management Team
+I0534,Waste,10.117235,76.458915,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0535,Waste,10.180555,76.390467,Overflowing garbage bin,1,Open,Waste Management Team
+I0536,Waste,10.09435,76.434446,Public bin overflowing,2,Open,Waste Management Team
+I0537,Waste,10.101184,76.441789,Waste dumping reported,1,Open,Waste Management Team
+I0538,Waste,10.242333,76.433405,Garbage collection missed,2,In Progress,Waste Management Team
+I0539,Waste,10.135348,76.418976,Waste dumping reported,2,Open,Waste Management Team
+I0540,Waste,10.203168,76.451332,Waste pile near market,1,Resolved,Waste Management Team
+I0541,Waste,10.223377,76.465727,Uncollected waste on street,1,In Progress,Waste Management Team
+I0542,Waste,10.055973,76.42897,Uncollected waste on street,2,In Progress,Waste Management Team
+I0543,Waste,10.224626,76.530168,Waste pile near market,3,In Progress,Waste Management Team
+I0544,Waste,10.18076,76.548646,Waste pile near market,2,In Progress,Waste Management Team
+I0545,Waste,10.232363,76.392069,Waste pile near market,3,In Progress,Waste Management Team
+I0546,Waste,10.14336,76.517772,Garbage not collected,1,Open,Waste Management Team
+I0547,Waste,10.076714,76.493521,Garbage collection missed,1,In Progress,Waste Management Team
+I0548,Waste,10.16986,76.475971,Waste dumping reported,2,Resolved,Waste Management Team
+I0549,Waste,10.244478,76.38586,Garbage accumulation near bus stop,2,Open,Waste Management Team
+I0550,Waste,10.064076,76.438523,Waste dumping reported,1,Open,Waste Management Team
+I0551,Waste,10.22394,76.438862,Uncollected waste on street,2,In Progress,Waste Management Team
+I0552,Waste,10.16554,76.482234,Public bin overflowing,1,Resolved,Waste Management Team
+I0553,Waste,10.083418,76.42799,Garbage not collected,3,Open,Waste Management Team
+I0554,Waste,10.130369,76.521854,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0555,Waste,10.114732,76.505012,Garbage not collected,2,In Progress,Waste Management Team
+I0556,Waste,10.129565,76.397384,Public bin overflowing,1,Open,Waste Management Team
+I0557,Waste,10.097783,76.364678,Public bin overflowing,2,In Progress,Waste Management Team
+I0558,Waste,10.116188,76.439392,Uncollected waste on street,2,Open,Waste Management Team
+I0559,Waste,10.215694,76.436489,Uncollected waste on street,2,In Progress,Waste Management Team
+I0560,Waste,10.167658,76.540032,Garbage not collected,1,Resolved,Waste Management Team
+I0561,Waste,10.083686,76.383627,Garbage not collected,1,Resolved,Waste Management Team
+I0562,Waste,10.171676,76.421481,Uncollected waste on street,1,Resolved,Waste Management Team
+I0563,Waste,10.145586,76.518509,Uncollected waste on street,1,Resolved,Waste Management Team
+I0564,Waste,10.139279,76.52252,Waste dumping reported,2,In Progress,Waste Management Team
+I0565,Waste,10.091128,76.372667,Waste pile near market,1,Resolved,Waste Management Team
+I0566,Waste,10.247276,76.374602,Waste pile near market,5,In Progress,Waste Management Team
+I0567,Waste,10.236895,76.357476,Public bin overflowing,1,Open,Waste Management Team
+I0568,Waste,10.094665,76.386236,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0569,Waste,10.112684,76.451556,Waste dumping reported,2,Resolved,Waste Management Team
+I0570,Waste,10.1879,76.429778,Waste pile near market,1,In Progress,Waste Management Team
+I0571,Waste,10.243162,76.35069,Waste dumping reported,3,Open,Waste Management Team
+I0572,Waste,10.114341,76.544905,Public bin overflowing,2,Open,Waste Management Team
+I0573,Waste,10.140787,76.453176,Garbage not collected,3,Open,Waste Management Team
+I0574,Waste,10.118591,76.456529,Public bin overflowing,2,In Progress,Waste Management Team
+I0575,Waste,10.056414,76.41212,Garbage collection missed,2,In Progress,Waste Management Team
+I0576,Waste,10.238392,76.496713,Overflowing garbage bin,2,Open,Waste Management Team
+I0577,Waste,10.244013,76.368632,Garbage collection missed,1,Resolved,Waste Management Team
+I0578,Waste,10.080845,76.397599,Public bin overflowing,1,In Progress,Waste Management Team
+I0579,Waste,10.08511,76.48838,Public bin overflowing,3,Resolved,Waste Management Team
+I0580,Waste,10.245771,76.424772,Waste dumping reported,1,Open,Waste Management Team
+I0581,Waste,10.148708,76.473426,Garbage collection missed,2,Open,Waste Management Team
+I0582,Waste,10.22278,76.50357,Overflowing garbage bin,2,Open,Waste Management Team
+I0583,Waste,10.235797,76.487694,Garbage not collected,2,In Progress,Waste Management Team
+I0584,Waste,10.170118,76.53834,Waste dumping reported,3,In Progress,Waste Management Team
+I0585,Waste,10.129491,76.480472,Waste pile near market,1,In Progress,Waste Management Team
+I0586,Waste,10.119741,76.381499,Garbage collection missed,1,Resolved,Waste Management Team
+I0587,Waste,10.059139,76.545901,Garbage not collected,1,Resolved,Waste Management Team
+I0588,Waste,10.248553,76.500294,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0589,Waste,10.163434,76.497506,Uncollected waste on street,2,Open,Waste Management Team
+I0590,Waste,10.179752,76.503314,Uncollected waste on street,1,Resolved,Waste Management Team
+I0591,Waste,10.18324,76.511373,Waste pile near market,2,In Progress,Waste Management Team
+I0592,Waste,10.22577,76.413449,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0593,Waste,10.213471,76.374037,Waste dumping reported,1,Resolved,Waste Management Team
+I0594,Waste,10.179918,76.415289,Waste pile near market,2,Resolved,Waste Management Team
+I0595,Waste,10.123174,76.429283,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0596,Waste,10.126212,76.460047,Garbage not collected,1,Open,Waste Management Team
+I0597,Waste,10.098101,76.424743,Uncollected waste on street,1,Open,Waste Management Team
+I0598,Waste,10.052732,76.4676,Garbage collection missed,1,Resolved,Waste Management Team
+I0599,Waste,10.183632,76.474379,Garbage not collected,2,In Progress,Waste Management Team
+I0600,Waste,10.150404,76.4587,Garbage accumulation near bus stop,2,In Progress,Waste Management Team
+I0601,Waste,10.154056,76.445854,Garbage accumulation near bus stop,2,Open,Waste Management Team
+I0602,Waste,10.213046,76.372292,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0603,Waste,10.129512,76.466,Uncollected waste on street,2,In Progress,Waste Management Team
+I0604,Waste,10.145059,76.428564,Garbage not collected,2,In Progress,Waste Management Team
+I0605,Waste,10.21194,76.493573,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0606,Waste,10.153938,76.51497,Overflowing garbage bin,1,Open,Waste Management Team
+I0607,Waste,10.051733,76.47937,Uncollected waste on street,1,Open,Waste Management Team
+I0608,Waste,10.240827,76.480636,Waste pile near market,2,Open,Waste Management Team
+I0609,Waste,10.062024,76.536912,Waste dumping reported,1,In Progress,Waste Management Team
+I0610,Waste,10.089455,76.382568,Uncollected waste on street,1,In Progress,Waste Management Team
+I0611,Waste,10.10151,76.4066,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0612,Waste,10.235851,76.456581,Garbage collection missed,1,Resolved,Waste Management Team
+I0613,Waste,10.113004,76.472081,Waste pile near market,1,Resolved,Waste Management Team
+I0614,Waste,10.13007,76.545127,Waste pile near market,1,Open,Waste Management Team
+I0615,Waste,10.074035,76.386582,Public bin overflowing,1,Resolved,Waste Management Team
+I0616,Waste,10.221421,76.510148,Public bin overflowing,2,Resolved,Waste Management Team
+I0617,Waste,10.191105,76.371236,Waste pile near market,2,Open,Waste Management Team
+I0618,Waste,10.087412,76.533882,Uncollected waste on street,2,In Progress,Waste Management Team
+I0619,Waste,10.146111,76.511629,Garbage not collected,1,In Progress,Waste Management Team
+I0620,Waste,10.124264,76.455202,Public bin overflowing,2,In Progress,Waste Management Team
+I0621,Waste,10.240098,76.470168,Waste dumping reported,3,In Progress,Waste Management Team
+I0622,Waste,10.152827,76.468757,Waste pile near market,1,Open,Waste Management Team
+I0623,Waste,10.092113,76.472421,Waste pile near market,1,In Progress,Waste Management Team
+I0624,Waste,10.121933,76.530837,Garbage collection missed,1,In Progress,Waste Management Team
+I0625,Waste,10.121712,76.396998,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0626,Waste,10.110284,76.496327,Uncollected waste on street,1,In Progress,Waste Management Team
+I0627,Waste,10.134625,76.484002,Garbage accumulation near bus stop,2,In Progress,Waste Management Team
+I0628,Waste,10.203403,76.380274,Garbage collection missed,3,Open,Waste Management Team
+I0629,Waste,10.167526,76.3835,Waste pile near market,2,Resolved,Waste Management Team
+I0630,Waste,10.224192,76.444574,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0631,Waste,10.069207,76.354736,Uncollected waste on street,2,Open,Waste Management Team
+I0632,Waste,10.095862,76.391362,Overflowing garbage bin,4,In Progress,Waste Management Team
+I0633,Waste,10.095855,76.428005,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0634,Waste,10.061843,76.37894,Garbage collection missed,1,In Progress,Waste Management Team
+I0635,Waste,10.077726,76.488756,Overflowing garbage bin,1,Open,Waste Management Team
+I0636,Waste,10.138584,76.438838,Garbage not collected,2,Resolved,Waste Management Team
+I0637,Waste,10.188492,76.548101,Waste pile near market,4,Open,Waste Management Team
+I0638,Waste,10.213868,76.47008,Waste dumping reported,1,Open,Waste Management Team
+I0639,Waste,10.165801,76.405015,Waste dumping reported,1,Open,Waste Management Team
+I0640,Waste,10.102633,76.479274,Public bin overflowing,4,Open,Waste Management Team
+I0641,Waste,10.088573,76.414872,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0642,Waste,10.118847,76.47399,Overflowing garbage bin,2,Open,Waste Management Team
+I0643,Waste,10.154204,76.363339,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0644,Waste,10.064173,76.47782,Garbage collection missed,2,Open,Waste Management Team
+I0645,Waste,10.225767,76.480118,Waste dumping reported,3,In Progress,Waste Management Team
+I0646,Waste,10.095995,76.441109,Waste dumping reported,3,In Progress,Waste Management Team
+I0647,Waste,10.18407,76.548897,Waste pile near market,5,Open,Waste Management Team
+I0648,Waste,10.12293,76.548835,Public bin overflowing,1,Resolved,Waste Management Team
+I0649,Waste,10.142921,76.361982,Garbage not collected,4,In Progress,Waste Management Team
+I0650,Waste,10.067225,76.542256,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0651,Waste,10.187819,76.39005,Garbage collection missed,3,Open,Waste Management Team
+I0652,Waste,10.131913,76.433986,Public bin overflowing,2,In Progress,Waste Management Team
+I0653,Waste,10.201572,76.419584,Waste dumping reported,4,In Progress,Waste Management Team
+I0654,Waste,10.246414,76.444366,Waste dumping reported,1,In Progress,Waste Management Team
+I0655,Waste,10.097118,76.429873,Overflowing garbage bin,2,Open,Waste Management Team
+I0656,Waste,10.053653,76.497094,Garbage collection missed,1,Resolved,Waste Management Team
+I0657,Waste,10.15877,76.51898,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0658,Waste,10.068238,76.401712,Garbage collection missed,2,In Progress,Waste Management Team
+I0659,Waste,10.201476,76.375566,Garbage collection missed,2,Open,Waste Management Team
+I0660,Waste,10.151599,76.38182,Garbage not collected,2,In Progress,Waste Management Team
+I0661,Waste,10.057753,76.410718,Waste pile near market,2,Open,Waste Management Team
+I0662,Waste,10.118468,76.426164,Waste pile near market,2,In Progress,Waste Management Team
+I0663,Waste,10.237459,76.461143,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0664,Waste,10.214713,76.406076,Waste pile near market,2,In Progress,Waste Management Team
+I0665,Waste,10.169812,76.452836,Overflowing garbage bin,1,Open,Waste Management Team
+I0666,Waste,10.207277,76.464593,Uncollected waste on street,1,In Progress,Waste Management Team
+I0667,Waste,10.21978,76.392181,Public bin overflowing,1,In Progress,Waste Management Team
+I0668,Waste,10.129646,76.457908,Garbage accumulation near bus stop,2,In Progress,Waste Management Team
+I0669,Waste,10.125677,76.525685,Waste dumping reported,1,Open,Waste Management Team
+I0670,Waste,10.194101,76.378449,Public bin overflowing,2,In Progress,Waste Management Team
+I0671,Waste,10.111028,76.366674,Garbage accumulation near bus stop,2,In Progress,Waste Management Team
+I0672,Waste,10.054429,76.381233,Waste pile near market,2,Open,Waste Management Team
+I0673,Waste,10.119036,76.545311,Garbage collection missed,1,Open,Waste Management Team
+I0674,Waste,10.23643,76.465398,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0675,Waste,10.222407,76.534582,Garbage accumulation near bus stop,4,In Progress,Waste Management Team
+I0676,Waste,10.077775,76.529851,Waste dumping reported,2,Open,Waste Management Team
+I0677,Waste,10.084843,76.450058,Garbage not collected,1,In Progress,Waste Management Team
+I0678,Waste,10.215522,76.482996,Waste dumping reported,2,In Progress,Waste Management Team
+I0679,Waste,10.06357,76.355573,Garbage not collected,2,Open,Waste Management Team
+I0680,Waste,10.09671,76.365969,Overflowing garbage bin,4,In Progress,Waste Management Team
+I0681,Waste,10.242944,76.436568,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0682,Waste,10.237091,76.525456,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0683,Waste,10.070717,76.478026,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0684,Waste,10.053225,76.469996,Uncollected waste on street,2,Open,Waste Management Team
+I0685,Waste,10.079977,76.362375,Public bin overflowing,3,Open,Waste Management Team
+I0686,Waste,10.088562,76.392115,Waste dumping reported,1,Open,Waste Management Team
+I0687,Waste,10.248898,76.361792,Waste pile near market,2,Open,Waste Management Team
+I0688,Waste,10.109668,76.43581,Public bin overflowing,3,In Progress,Waste Management Team
+I0689,Waste,10.0785,76.375023,Waste dumping reported,1,Resolved,Waste Management Team
+I0690,Waste,10.103018,76.384711,Garbage collection missed,1,Open,Waste Management Team
+I0691,Waste,10.062422,76.451369,Garbage collection missed,2,In Progress,Waste Management Team
+I0692,Waste,10.095748,76.396532,Waste pile near market,2,In Progress,Waste Management Team
+I0693,Waste,10.111519,76.475045,Uncollected waste on street,1,Open,Waste Management Team
+I0694,Waste,10.21975,76.494989,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0695,Waste,10.227118,76.440208,Garbage collection missed,4,In Progress,Waste Management Team
+I0696,Waste,10.120923,76.455369,Waste dumping reported,1,Resolved,Waste Management Team
+I0697,Waste,10.215268,76.497082,Waste dumping reported,3,In Progress,Waste Management Team
+I0698,Waste,10.24246,76.399735,Uncollected waste on street,2,In Progress,Waste Management Team
+I0699,Waste,10.146612,76.353501,Public bin overflowing,1,Open,Waste Management Team
+I0700,Waste,10.166376,76.485894,Garbage collection missed,1,Open,Waste Management Team
+I0701,Waste,10.156846,76.393014,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0702,Waste,10.216172,76.475852,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0703,Waste,10.210215,76.54179,Garbage not collected,2,In Progress,Waste Management Team
+I0704,Waste,10.124211,76.40268,Overflowing garbage bin,2,Resolved,Waste Management Team
+I0705,Waste,10.14068,76.518606,Overflowing garbage bin,2,Open,Waste Management Team
+I0706,Waste,10.079679,76.375825,Waste pile near market,1,In Progress,Waste Management Team
+I0707,Waste,10.114627,76.496961,Garbage collection missed,1,In Progress,Waste Management Team
+I0708,Waste,10.212322,76.472775,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0709,Waste,10.142342,76.506438,Waste pile near market,2,Open,Waste Management Team
+I0710,Waste,10.076301,76.370357,Garbage collection missed,1,Resolved,Waste Management Team
+I0711,Waste,10.112881,76.487431,Garbage collection missed,4,Open,Waste Management Team
+I0712,Waste,10.06528,76.405579,Waste pile near market,2,Open,Waste Management Team
+I0713,Waste,10.057943,76.530374,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0714,Waste,10.215395,76.449064,Garbage collection missed,1,In Progress,Waste Management Team
+I0715,Waste,10.228944,76.477284,Public bin overflowing,1,Resolved,Waste Management Team
+I0716,Waste,10.227807,76.43973,Garbage accumulation near bus stop,2,Open,Waste Management Team
+I0717,Waste,10.079887,76.497526,Garbage not collected,1,In Progress,Waste Management Team
+I0718,Waste,10.138744,76.359198,Public bin overflowing,3,In Progress,Waste Management Team
+I0719,Waste,10.066846,76.493013,Garbage collection missed,2,Open,Waste Management Team
+I0720,Waste,10.210554,76.370675,Garbage not collected,1,In Progress,Waste Management Team
+I0721,Waste,10.241665,76.497677,Waste pile near market,2,Open,Waste Management Team
+I0722,Waste,10.142391,76.548164,Waste pile near market,2,In Progress,Waste Management Team
+I0723,Waste,10.204696,76.48226,Uncollected waste on street,3,In Progress,Waste Management Team
+I0724,Waste,10.121234,76.431957,Garbage accumulation near bus stop,1,In Progress,Waste Management Team
+I0725,Waste,10.181551,76.503275,Waste pile near market,3,Open,Waste Management Team
+I0726,Waste,10.134436,76.367274,Garbage collection missed,2,In Progress,Waste Management Team
+I0727,Waste,10.243232,76.409231,Garbage collection missed,1,Resolved,Waste Management Team
+I0728,Waste,10.095792,76.545414,Public bin overflowing,1,In Progress,Waste Management Team
+I0729,Waste,10.091164,76.374644,Waste dumping reported,1,In Progress,Waste Management Team
+I0730,Waste,10.102374,76.363384,Garbage not collected,2,Open,Waste Management Team
+I0731,Waste,10.1562,76.358302,Waste pile near market,1,In Progress,Waste Management Team
+I0732,Waste,10.115141,76.374716,Overflowing garbage bin,1,Resolved,Waste Management Team
+I0733,Waste,10.245993,76.47019,Garbage accumulation near bus stop,1,Resolved,Waste Management Team
+I0734,Waste,10.233946,76.454159,Garbage collection missed,1,Resolved,Waste Management Team
+I0735,Waste,10.181298,76.375338,Public bin overflowing,1,Open,Waste Management Team
+I0736,Waste,10.0721,76.469715,Garbage not collected,1,In Progress,Waste Management Team
+I0737,Waste,10.124908,76.436524,Waste dumping reported,2,In Progress,Waste Management Team
+I0738,Waste,10.127097,76.382807,Uncollected waste on street,1,Open,Waste Management Team
+I0739,Waste,10.098607,76.37453,Garbage not collected,3,Open,Waste Management Team
+I0740,Waste,10.149801,76.352559,Garbage accumulation near bus stop,3,In Progress,Waste Management Team
+I0741,Waste,10.107299,76.513193,Public bin overflowing,2,Open,Waste Management Team
+I0742,Waste,10.226024,76.401572,Public bin overflowing,1,Resolved,Waste Management Team
+I0743,Waste,10.100363,76.500946,Garbage accumulation near bus stop,1,Open,Waste Management Team
+I0744,Waste,10.245675,76.50003,Waste dumping reported,2,In Progress,Waste Management Team
+I0745,Waste,10.205384,76.481098,Overflowing garbage bin,1,In Progress,Waste Management Team
+I0746,Waste,10.113936,76.500686,Garbage not collected,2,In Progress,Waste Management Team
+I0747,Waste,10.237532,76.35844,Waste pile near market,3,In Progress,Waste Management Team
+I0748,Waste,10.071628,76.487359,Uncollected waste on street,1,Resolved,Waste Management Team
+I0749,Waste,10.213594,76.392861,Uncollected waste on street,2,Open,Waste Management Team
+I0750,Waste,10.079876,76.418779,Waste dumping reported,1,Resolved,Waste Management Team

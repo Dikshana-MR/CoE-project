@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Issue {{ issue.issue_id }} Details</title>
+    <style>
+        body { background: #0f172a; color: #f8fafc; font-family: system-ui; padding: 2rem; }
+        .card { background: #1e293b; border: 1px solid #334155; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
+        a { color: #38bdf8; text-decoration: none; }
+        .cmp-box { background: #0f172a; padding: 1rem; border: 1px solid #334155; border-radius: 6px; margin-top: 0.5rem; }
+    </style>
+</head>
+<body>
+    <p><a href="/issues">&larr; Back to Issues</a></p>
+    <h1 style="margin: 1rem 0; color: #38bdf8;">Issue ID: {{ issue.issue_id }}</h1>
+    
+    <div class="card">
+        <p><strong>Category:</strong> {{ issue.category }}</p>
+        <p><strong>Location:</strong> {{ issue.latitude }}, {{ issue.longitude }}</p>
+        <p><strong>Status:</strong> {{ issue.status }}</p>
+        <p><strong>Total Linked Complaints:</strong> {{ issue.linked_complaints|length }}</p>
+    </div>
+
+    <h2>All Linked Complaints</h2>
+    {% for cmp in issue.linked_complaints %}
+    <div class="cmp-box">
+        <strong style="color: #38bdf8;">{{ cmp.complaint_id }}</strong>: {{ cmp.description }}
+        <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 0.25rem;">
+            Category: {{ cmp.category }} | Coordinates: ({{ cmp.latitude }}, {{ cmp.longitude }}) | Image: {{ cmp.image_path or 'N/A' }}
+        </p>
+    </div>
+    {% endfor %}
+</body>
+</html>
