@@ -8,9 +8,9 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "src"
 
 from preprocessing import load_and_clean_all
 from baseline import run_baseline
-from deduplication import run_deduplication
+from deduplication import run_deduplication, DEFAULT_THRESHOLD
 from database import populate_db
-from evaluation import evaluate_models, generate_error_analysis
+from evaluation import evaluate_models, generate_error_analysis, run_threshold_analysis
 
 
 def run_pipeline():
@@ -30,10 +30,14 @@ def run_pipeline():
     print(f"-> Baseline Unique Issues: {baseline_res['unique_issues']}")
     print(f"-> Baseline Results saved to outputs/baseline_results.csv")
 
-    # 3. Prototype Deduplication & Consolidation
-    print("\n[Step 3/5] Running Hybrid Prototype Deduplication Model...")
-    cons_cmp_df, duplicate_pairs, score_records = run_deduplication(cmp_clean, threshold=0.75)
-    print(f"-> Prototype Duplicate Pairs Found: {len(duplicate_pairs)}")
+    # 3. Threshold Analysis & Deduplication & Consolidation
+    print("\n[Step 3/5] Running Threshold Analysis and Hybrid Scalable Deduplication Model...")
+    thresh_df = run_threshold_analysis(cmp_clean, thresholds=[0.55, 0.60, 0.65, 0.70, 0.75, 0.80], output_path="outputs/threshold_analysis.csv")
+    print("-> Threshold Analysis Completed:")
+    print(thresh_df.to_string(index=False))
+
+    cons_cmp_df, duplicate_pairs, score_records = run_deduplication(cmp_clean, threshold=DEFAULT_THRESHOLD)
+    print(f"-> Improved Prototype Duplicate Pairs Found: {len(duplicate_pairs)}")
     print(f"-> Consolidated Unique Issues: {cons_cmp_df['consolidated_issue_id'].nunique()}")
 
     # 4. Database Population
@@ -55,9 +59,9 @@ def run_pipeline():
 
 
 def run_tests():
-    print("\nRunning pytest edge case test suite...")
+    print("\nRunning pytest test suite (edge cases + API routes)...")
     pytest_bin = os.path.join("venv", "bin", "pytest") if os.path.exists(os.path.join("venv", "bin", "pytest")) else "pytest"
-    res = subprocess.run([pytest_bin, "-v", "tests/test_edge_cases.py"])
+    res = subprocess.run([pytest_bin, "-v", "tests/"])
     return res.returncode == 0
 
 
@@ -86,3 +90,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

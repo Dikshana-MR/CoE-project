@@ -1,8 +1,10 @@
-Metric,Baseline Model,Prototype Model
+Metric,Baseline Model,Improved Prototype Model
 Total Complaints,1750.0,1750.0
-Duplicate Pairs Identified,0.0,282.0
-Unique Underlying Issues,1750.0,1498.0
-Duplicate Consolidation Rate,0.0,0.144
-Precision,0.0,0.8936
-Recall,0.0,0.1688
-F1 Score,0.0,0.284
+Duplicate Pairs Identified,0.0,1533.0
+Unique Underlying Issues,1750.0,729.0
+Duplicate Consolidation Rate,0.0,0.5834
+Precision,0.0,0.9119
+Recall,0.0,0.9364
+F1 Score,0.0,0.924
+False Positives,0.0,135.0
+False Negatives,1493.0,95.0

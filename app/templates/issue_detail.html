@@ -2,33 +2,68 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Issue {{ issue.issue_id }} Details</title>
     <style>
-        body { background: #0f172a; color: #f8fafc; font-family: system-ui; padding: 2rem; }
-        .card { background: #1e293b; border: 1px solid #334155; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
+        body { background: #0f172a; color: #f8fafc; font-family: 'Inter', system-ui, sans-serif; padding: 2rem; }
+        .card { background: #1e293b; border: 1px solid #334155; padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; }
         a { color: #38bdf8; text-decoration: none; }
-        .cmp-box { background: #0f172a; padding: 1rem; border: 1px solid #334155; border-radius: 6px; margin-top: 0.5rem; }
+        .cmp-box { background: #0f172a; padding: 1rem; border: 1px solid #334155; border-radius: 8px; margin-top: 0.75rem; }
+        .badge { display: inline-block; padding: 0.2rem 0.6rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; background: rgba(56, 189, 248, 0.1); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3); }
+        .badge-green { background: rgba(74, 222, 128, 0.1); color: #4ade80; border-color: rgba(74, 222, 128, 0.3); }
+        .badge-orange { background: rgba(251, 146, 60, 0.1); color: #fb923c; border-color: rgba(251, 146, 60, 0.3); }
+        .timeline { margin-top: 1rem; border-left: 2px solid #334155; padding-left: 1.25rem; }
+        .evt-item { position: relative; margin-bottom: 1rem; }
+        .evt-item::before { content: ''; position: absolute; left: -1.65rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: #38bdf8; }
     </style>
 </head>
 <body>
     <p><a href="/issues">&larr; Back to Issues</a></p>
-    <h1 style="margin: 1rem 0; color: #38bdf8;">Issue ID: {{ issue.issue_id }}</h1>
+    <h1 style="margin: 1rem 0; color: #38bdf8;">Underlying Issue ID: {{ issue.issue_id }}</h1>
     
     <div class="card">
-        <p><strong>Category:</strong> {{ issue.category }}</p>
-        <p><strong>Location:</strong> {{ issue.latitude }}, {{ issue.longitude }}</p>
-        <p><strong>Status:</strong> {{ issue.status }}</p>
-        <p><strong>Total Linked Complaints:</strong> {{ issue.linked_complaints|length }}</p>
+        <p><strong>Category:</strong> <span class="badge">{{ issue.category }}</span></p>
+        <p style="margin-top: 0.5rem;"><strong>Issue Description:</strong> {{ issue.issue_description }}</p>
+        <p style="margin-top: 0.5rem;"><strong>Location Coordinates:</strong> ({{ issue.latitude }}, {{ issue.longitude }})</p>
+        <p style="margin-top: 0.5rem;"><strong>Assigned Municipal Team:</strong> {{ issue.assigned_to or 'Municipal Response Team' }}</p>
+        <p style="margin-top: 0.5rem;"><strong>Status:</strong> 
+            {% if issue.status|lower == 'resolved' %}
+                <span class="badge badge-green">RESOLVED</span>
+            {% else %}
+                <span class="badge badge-orange">{{ issue.status|upper }}</span>
+            {% endif %}
+        </p>
+        <p style="margin-top: 0.5rem;"><strong>Linked Complaints Count:</strong> {{ issue.linked_complaints|length }}</p>
     </div>
 
-    <h2>All Linked Complaints</h2>
+    <h2 style="color: #38bdf8; margin-top: 2rem;">Linked Complaints Chain</h2>
     {% for cmp in issue.linked_complaints %}
     <div class="cmp-box">
-        <strong style="color: #38bdf8;">{{ cmp.complaint_id }}</strong>: {{ cmp.description }}
-        <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 0.25rem;">
-            Category: {{ cmp.category }} | Coordinates: ({{ cmp.latitude }}, {{ cmp.longitude }}) | Image: {{ cmp.image_path or 'N/A' }}
+        <strong style="color: #38bdf8;">{{ cmp.complaint_id }}</strong> &mdash; {{ cmp.description }}
+        <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 0.4rem;">
+            Status: <span class="badge">{{ cmp.status or 'CONFIRMED_DUPLICATE' }}</span> | 
+            Created: {{ cmp.created_date or 'N/A' }} | 
+            Coordinates: ({{ cmp.latitude }}, {{ cmp.longitude }}) | 
+            Image: <code>{{ cmp.image_path or 'N/A' }}</code>
         </p>
     </div>
     {% endfor %}
+
+    <h2 style="color: #38bdf8; margin-top: 2rem;">Resolution Events History</h2>
+    {% if issue.resolution_events %}
+    <div class="timeline">
+        {% for evt in issue.resolution_events %}
+        <div class="evt-item">
+            <strong style="color: #f8fafc;">{{ evt.event_type }}</strong> &mdash; <span style="color: #94a3b8; font-size: 0.85rem;">{{ evt.event_date }}</span>
+            <p style="color: #94a3b8; font-size: 0.9rem; margin-top: 0.25rem;">
+                Assigned Team: {{ evt.assigned_team or 'Municipal Team' }} | Notes: {{ evt.notes or 'N/A' }}
+            </p>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p style="color: #94a3b8; margin-top: 0.5rem;">No resolution events recorded yet for this issue.</p>
+    {% endif %}
 </body>
 </html>
+
